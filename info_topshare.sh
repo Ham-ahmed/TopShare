@@ -1,14 +1,14 @@
 echo ">>>> Top Shaer Server <<<<"
 sleep 3
-echo "> ááÊæÇÕá Úä ØÑíÞ ÇáæÇÊÓÇÈ"
+echo "> To contact WhatsApp"
 sleep 3s
 
 echo " "
-echo "> ÏÇÎá ãÕÑ"
+echo "> ÄŽÃ‡ÃŽÃ¡ ÄƒÅÅƒ"
 sleep 2s
 
-echo "> ã . ÑÈíÚ ÇáÓÇÍÑ "
-echo "> ã . ÃÈæ ÎÇáÏ "
+echo "> Äƒ . ÅƒÄŒÃ­Ãš Ã‡Ã¡Ã“Ã‡ÃÅƒ "
+echo "> Äƒ . Ä‚ÄŒÄ‡ ÃŽÃ‡Ã¡ÄŽ "
 echo "> 01021935035 "
 sleep 2s
 
