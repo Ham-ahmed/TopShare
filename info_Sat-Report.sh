@@ -7,142 +7,142 @@ echo " "
 echo "> Hispasat 30W"
 sleep 2s
 
-echo "> MEO TV ÇáÈÇÝÉ ÈÇáßÇãá"
-echo "> Nos ÌãíÚ ÇáÞäæÇÊ"
-echo "> MEO TV ÇáÈÇÞÉ ÈÇáßÇãá"
+echo "> MEO TV Ø§Ù„Ø¨Ø§ÙØ© Ø¨Ø§Ù„ÙƒØ§Ù…Ù„"
+echo "> Nos Ø¬Ù…ÙŠØ¹ Ø§Ù„Ù‚Ù†ÙˆØ§Øª"
+echo "> MEO TV Ø§Ù„Ø¨Ø§Ù‚Ø© Ø¨Ø§Ù„ÙƒØ§Ù…Ù„"
 sleep 2s
 
 echo " "
 echo "> Thor 1W"
 sleep 2s
 
-echo "> Focus Sat ÇáÈÇÞÉ ÈÇáßÇãá updated"
-echo "> UPC Direct ßá ÇáÞäæÇÊ ÊÚãá "
-echo "> Digi TV ÇáÈÇÞÉ ÈÇáßÇãá"
-echo "> Canal Digital ÌãíÚ ÇáÞäæÇÊ"
+echo "> Focus Sat Ø§Ù„Ø¨Ø§Ù‚Ø© Ø¨Ø§Ù„ÙƒØ§Ù…Ù„ updated"
+echo "> UPC Direct ÙƒÙ„ Ø§Ù„Ù‚Ù†ÙˆØ§Øª ØªØ¹Ù…Ù„"
+echo "> Digi TV Ø§Ù„Ø¨Ø§Ù‚Ø© Ø¨Ø§Ù„ÙƒØ§Ù…Ù„"
+echo "> Canal Digital Ø¬Ù…ÙŠØ¹ Ø§Ù„Ù‚Ù†ÙˆØ§Øª"
 sleep 2s
 
 echo " "
 echo "> Bulgaria-Sat 1.9E"
 sleep 2s
 
-echo "> Polaris Media ÌãíÚ ÇáÞäæÇÊ"
-echo "> NOS ÞäæÇÊ ãÇßÓ æßá ÈÇÞÉ"
+echo "> Polaris Media Ø¬Ù…ÙŠØ¹ Ø§Ù„Ù‚Ù†ÙˆØ§Øª"
+echo "> NOS Ù‚Ù†ÙˆØ§Øª Ù…Ø§ÙƒØ³ ÙˆÙƒÙ„ Ø¨Ø§Ù‚Ø©"
 sleep 2s
 
 echo " "
 echo "> Nailsat 7W"
 sleep 2s
 
-echo "> ART ÞäæÇÊ ÈÇÞÉ"
+echo "> ART Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
 sleep 2s
 
 echo " "
 echo "> Amos 4W"
 sleep 2s
 
-echo "> ÇÞÉ YES ÈÇáßÇãá SD,HD,4K"
+echo "> Ø§Ù‚Ø© YES Ø¨Ø§Ù„ÙƒØ§Ù…Ù„ SD,HD,4K"
 sleep 2s
 
 echo " "
 echo "> Eutlsat 3E"
 sleep 2s
 
-echo "> mideasat ÇáÇíØÇáíå ßÇãáå"
+echo "> mideasat Ø§Ù„Ø§ÙŠØ·Ø§Ù„ÙŠÙ‡ ÙƒØ§Ù…Ù„Ù‡"
 sleep 2s
 
 echo " "
 echo "> Eutlsat 9E"
 sleep 2s
 
-echo "> KABILE ÇáÇáãÇäíÉ ßÇãáå ãÊæÞÝå ÍÇáíÇ"
-echo "> discovery ÇáÇáãÇäíÉ ÇáãÊÑÌãå ááÚÑÈíÉ ÍÕÑíÇ ßÇãáå"
-echo "> AFN ßÇãáå ÊÚãá Úáí ÃÌåÒÉ ÇáÌíá ÇáËÇáË "
+echo "> KABILE Ø§Ù„Ø§Ù„Ù…Ø§Ù†ÙŠØ© ÙƒØ§Ù…Ù„Ù‡ Ù…ØªÙˆÙ‚ÙÙ‡ Ø­Ø§Ù„ÙŠØ§"
+echo "> discovery Ø§Ù„Ø§Ù„Ù…Ø§Ù†ÙŠØ© Ø§Ù„Ù…ØªØ±Ø¬Ù…Ù‡ Ù„Ù„Ø¹Ø±Ø¨ÙŠØ© Ø­ØµØ±ÙŠØ§ ÙƒØ§Ù…Ù„Ù‡"
+echo "> AFN ÙƒØ§Ù…Ù„Ù‡ ØªØ¹Ù…Ù„ Ø¹Ù„ÙŠ Ø£Ø¬Ù‡Ø²Ø© Ø§Ù„Ø¬ÙŠÙ„ Ø§Ù„Ø«Ø§Ù„Ø«"
 sleep 2s
 
 echo " "
 echo "> Hotbird 13E"
 sleep 2s
 
-echo "> Eurosport ÇáÞäæÇÊ ÇáÇäÌáíÒíÉ"
-echo "> NC+ ÈÇáßÇãá ãä ÖãäåÇ ÞäæÇÊ Eleven - Canal+ "
-echo "> Polsat Sport Premium æ Cyfrowy Polsat ÞäæÇÊ ÈÇÞÉ "
-echo "> Mediaset ÊÚãá ÈÇáßÇãá ÈÇÞÉ "
-echo "> SRG SSR ÊÚãá ÈÇáßÇãá ÈÇÞÉÇáÓæíÓÑíÉ "
-echo "> RAI ÇáÞäæÇÊ ÇáÇíØÇáíÉ ÈÇáßÇãá"
-echo "> Love Nature 4k æ My zen 4K æ Museum 4K ÊÚãá ÈÇãÊíÇÒ"
-echo "> AB ÇáÈÇÞÉ ÇáÝÑäÓíÉ Action æÞäÇÉ"
-echo "> HBO ßÇãá ÇáÞäæÇÊ "
-echo "> VOD ßÇÝÉ ÞäæÇÊ ÈÇÞÉ "
-echo "> Travelxp 4k ÞäÇÉ "
-echo "> vivacom ÞäæÇÊ "
+echo "> Eurosport Ø§Ù„Ù‚Ù†ÙˆØ§Øª Ø§Ù„Ø§Ù†Ø¬Ù„ÙŠØ²ÙŠØ©"
+echo "> NC+ Ø¨Ø§Ù„ÙƒØ§Ù…Ù„ Ù…Ù† Ø¶Ù…Ù†Ù‡Ø§ Ù‚Ù†ÙˆØ§Øª Eleven - Canal+"
+echo "> Polsat Sport Premium Ùˆ Cyfrowy Polsat Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
+echo "> Mediaset ØªØ¹Ù…Ù„ Ø¨Ø§Ù„ÙƒØ§Ù…Ù„ Ø¨Ø§Ù‚Ø©"
+echo "> SRG SSR ØªØ¹Ù…Ù„ Ø¨Ø§Ù„ÙƒØ§Ù…Ù„ Ø¨Ø§Ù‚Ø©Ø§Ù„Ø³ÙˆÙŠØ³Ø±ÙŠØ©"
+echo "> RAI Ø§Ù„Ù‚Ù†ÙˆØ§Øª Ø§Ù„Ø§ÙŠØ·Ø§Ù„ÙŠØ© Ø¨Ø§Ù„ÙƒØ§Ù…Ù„"
+echo "> Love Nature 4k Ùˆ My zen 4K Ùˆ Museum 4K ØªØ¹Ù…Ù„ Ø¨Ø§Ù…ØªÙŠØ§Ø²"
+echo "> AB Ø§Ù„Ø¨Ø§Ù‚Ø© Ø§Ù„ÙØ±Ù†Ø³ÙŠØ© Action ÙˆÙ‚Ù†Ø§Ø©"
+echo "> HBO ÙƒØ§Ù…Ù„ Ø§Ù„Ù‚Ù†ÙˆØ§Øª"
+echo "> VOD ÙƒØ§ÙØ© Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
+echo "> Travelxp 4k Ù‚Ù†Ø§Ø©"
+echo "> vivacom Ù‚Ù†ÙˆØ§Øª"
 sleep 2s
 
 echo " "
 echo "> Eutelsat 16E"
 sleep 2s
 
-echo "> MAX TV ÇáÈÇÞÉ ÇáßÑæÇÊíÉ"
-echo "> Antiksat ÌãíÚ ÞäæÇÊ ÈÇÞÉ "
-echo "> Pink ÈÇÞÉ ÌãíÛ ÞäæÇÊ "
-echo "> HRT ÇáÈÇÞÉ ÇáßÑæÇÊíÉ"
-echo "> Hayat HD ÝäæÇÊ ÈÇÞÉ "
-echo "> Freesat Romania æ Sport.Ro æ Pro TV æ Kanal D Romania æÞäæÇÊ TVR"
+echo "> MAX TV Ø§Ù„Ø¨Ø§Ù‚Ø© Ø§Ù„ÙƒØ±ÙˆØ§ØªÙŠØ©"
+echo "> Antiksat Ø¬Ù…ÙŠØ¹ Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
+echo "> Pink Ø¨Ø§Ù‚Ø© Ø¬Ù…ÙŠØº Ù‚Ù†ÙˆØ§Øª"
+echo "> HRT Ø§Ù„Ø¨Ø§Ù‚Ø© Ø§Ù„ÙƒØ±ÙˆØ§ØªÙŠØ©"
+echo "> Hayat HD ÙÙ†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
+echo "> Freesat Romania Ùˆ Sport.Ro Ùˆ Pro TV Ùˆ Kanal D Romania ÙˆÙ‚Ù†ÙˆØ§Øª TVR"
 sleep 2s
 
 echo " "
 echo "> Astra 19.2E"
 sleep 2s
 
-echo "> SKYDE ÇáÈÇÞÉ ÇáÇáãÇäíÉ"
-echo "> + Astra ÞäæÇÊ "
-echo "> HD+ ÞäæÇÊ ÈÇÞÉ "
-echo "> TNT ÞäæÇÊ ÈÇÞÉ "
-echo "> ORF  ÞäæÇÊ ÈÇÞÉ "
+echo "> SKYDE Ø§Ù„Ø¨Ø§Ù‚Ø© Ø§Ù„Ø§Ù„Ù…Ø§Ù†ÙŠØ©"
+echo "> + Astra Ù‚Ù†ÙˆØ§Øª"
+echo "> HD+ Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
+echo "> TNT Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
+echo "> ORF  Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
 sleep 2s
 
 echo " "
 echo "> Astra 23E"
 sleep 2s
 
-echo "> CanalDigitaal ÞäæÇÊ "
-echo "> Skylink ÞäæÇÊ ÈÇÞÉ "
+echo "> CanalDigitaal Ù‚Ù†ÙˆØ§Øª"
+echo "> Skylink Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
 sleep 2s
 
 echo " "
 echo "> Eutelsat 36E"
 sleep 2s
 
-echo "> NTV Plus ÞäæÇÊ ÇáÈÇÞÉ "
+echo "> NTV Plus Ù‚Ù†ÙˆØ§Øª Ø§Ù„Ø¨Ø§Ù‚Ø©"
 sleep 2s
 
 echo " "
 echo "> Hellasat 39E"
 sleep 2s
 
-echo "> Bulsatcom ÞäæÇÊ ÈÇÞÉ "
-echo "> telekome romania ÞäæÇÊ ÈÇÞÉ "
+echo "> Bulsatcom Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
+echo "> telekome romania Ù‚Ù†ÙˆØ§Øª Ø¨Ø§Ù‚Ø©"
 sleep 2s
 
 echo " "
-echo "> TurkSat 42E "
+echo "> TurkSat 42E"
 sleep 2s
 
-echo "> Dsmart æÇÛáÈ ÞäæÇÊ ÇáÞãÑ "
-sleep 2s
-
-echo " "
-echo "> ÇáÞãÑ ÇáÇÒÑí"
-sleep 2s
-
-echo "> vivacom æÊÚãá ÇÛáÈ ÞäæÇÊ ÇáÞãÑ"
+echo "> Dsmart ÙˆØ§ØºÙ„Ø¨ Ù‚Ù†ÙˆØ§Øª Ø§Ù„Ù‚Ù…Ø±"
 sleep 2s
 
 echo " "
-echo "> Turkmani + yahsat 52E "
+echo "> Ø§Ù„Ù‚Ù…Ø± Ø§Ù„Ø§Ø²Ø±ÙŠ"
 sleep 2s
 
-echo "> Big BANG ÊÚãá ÈÇãÊíÇÒ"
+echo "> vivacom ÙˆØªØ¹Ù…Ù„ Ø§ØºÙ„Ø¨ Ù‚Ù†ÙˆØ§Øª Ø§Ù„Ù‚Ù…Ø±"
+sleep 2s
+
+echo " "
+echo "> Turkmani + yahsat 52E"
+sleep 2s
+
+echo "> Big BANG ØªØ¹Ù…Ù„ Ø¨Ø§Ù…ØªÙŠØ§Ø²"
 sleep 2s
 
 echo ">>> Last Updatting 12-09-2024 <<<"
