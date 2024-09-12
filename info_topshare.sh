@@ -7,8 +7,8 @@ echo " "
 echo "> To contact WhatsApp"
 sleep 2s
 
-echo "> ă . ŃČíÚ ÇáÓÇÍŃ "
-echo "> ă . ĂČć ÎÇáĎ "
+echo "> م. ربيع الساحر "
+echo "> م. ابو خالد "
 echo "> 01021935035 "
 sleep 2s
 
