@@ -1,10 +1,10 @@
 echo ">>>> Top Shaer Server <<<<"
 sleep 3
-echo "> To contact WhatsApp"
+echo "> report for Server"
 sleep 3s
 
 echo " "
-echo "> ĎÇÎá ăŐŃ"
+echo "> To contact WhatsApp"
 sleep 2s
 
 echo "> ă . ŃČíÚ ÇáÓÇÍŃ "
